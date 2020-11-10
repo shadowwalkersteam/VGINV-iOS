@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "3Dk-fs-o2b"; */
+"3Dk-fs-o2b.text" = "Bio";
+
+/* Class = "UITextField"; text = "VGINV Web & App Developer, Native iOS Android"; ObjectID = "3Dy-en-mf5"; */
+"3Dy-en-mf5.text" = "VGINV Web & App Developer, Native iOS Android";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3mp-Ez-JYT"; */
+"3mp-Ez-JYT.text" = "0";
+
+/* Class = "UILabel"; text = "VGINV"; ObjectID = "4RA-GN-PxU"; */
+"4RA-GN-PxU.text" = "VGINV";
+
+/* Class = "UIButton"; normalTitle = "See More"; ObjectID = "5jQ-ta-sfW"; */
+"5jQ-ta-sfW.normalTitle" = "See More";
+
+/* Class = "UILabel"; text = "Total Budget SAR"; ObjectID = "8r5-3l-iK8"; */
+"8r5-3l-iK8.text" = "Total Budget SAR";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "E9H-zU-TUR"; */
+"E9H-zU-TUR.text" = "0";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "HTz-pR-0Uk"; */
+"HTz-pR-0Uk.text" = "Categories";
+
+/* Class = "UILabel"; text = "Project City"; ObjectID = "IDV-Af-M56"; */
+"IDV-Af-M56.text" = "Project City";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "JEL-CP-79q"; */
+"JEL-CP-79q.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Agriculture"; ObjectID = "NDa-Ns-qwd"; */
+"NDa-Ns-qwd.text" = "Agriculture";
+
+/* Class = "UILabel"; text = "Projects"; ObjectID = "NgQ-ys-bQp"; */
+"NgQ-ys-bQp.text" = "Projects";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "OQG-mz-GW0"; */
+"OQG-mz-GW0.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "Title (Special Characters are not allowed)"; ObjectID = "P2Z-XE-gVH"; */
+"P2Z-XE-gVH.text" = "Title (Special Characters are not allowed)";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "PIa-Av-plh"; */
+"PIa-Av-plh.title" = "Home";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "PJb-Wh-pW2"; */
+"PJb-Wh-pW2.text" = "Email";
+
+/* Class = "UILabel"; text = "Deals"; ObjectID = "QvI-fj-toQ"; */
+"QvI-fj-toQ.text" = "Deals";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "TfK-GS-QIq"; */
+"TfK-GS-QIq.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Job Title"; ObjectID = "U6O-UD-KRi"; */
+"U6O-UD-KRi.text" = "Job Title";
+
+/* Class = "UILabel"; text = "Legal status of the project provider"; ObjectID = "Wmv-Nf-G7t"; */
+"Wmv-Nf-G7t.text" = "Legal status of the project provider";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "Y5I-GJ-Sh1"; */
+"Y5I-GJ-Sh1.text" = "News";
+
+/* Class = "UITextField"; text = "Lahore, Pakistan"; ObjectID = "ZEg-KD-kTz"; */
+"ZEg-KD-kTz.text" = "Lahore, Pakistan";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aMi-sC-2nM"; */
+"aMi-sC-2nM.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "dEs-k6-gUl"; */
+"dEs-k6-gUl.text" = "Address";
+
+/* Class = "UILabel"; text = "Projects"; ObjectID = "eRi-S6-J3b"; */
+"eRi-S6-J3b.text" = "Projects";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "hEY-KC-ehm"; */
+"hEY-KC-ehm.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "jMi-eh-eFG"; */
+"jMi-eh-eFG.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "jhW-FN-obr"; */
+"jhW-FN-obr.text" = "Favorites";
+
+/* Class = "UIButton"; normalTitle = "Add Video"; ObjectID = "m9D-rn-ilv"; */
+"m9D-rn-ilv.normalTitle" = "Add Video";
+
+/* Class = "UITextField"; text = "VGINV Web & App Dev."; ObjectID = "nUk-zU-Rad"; */
+"nUk-zU-Rad.text" = "VGINV Web & App Dev.";
+
+/* Class = "UITextField"; text = "+97156482966"; ObjectID = "o1P-l2-dlL"; */
+"o1P-l2-dlL.text" = "+97156482966";
+
+/* Class = "UITextField"; text = "m.akmal.work@gmail.com"; ObjectID = "oFN-EU-vfm"; */
+"oFN-EU-vfm.text" = "m.akmal.work@gmail.com";
+
+/* Class = "UITextField"; text = "Attachments"; ObjectID = "q07-ED-XOu"; */
+"q07-ED-XOu.text" = "Attachments";
+
+/* Class = "UILabel"; text = "Project Country"; ObjectID = "qu6-ZO-oIM"; */
+"qu6-ZO-oIM.text" = "Project Country";
+
+/* Class = "UIButton"; normalTitle = "Add New Project"; ObjectID = "rA0-Ea-IZy"; */
+"rA0-Ea-IZy.normalTitle" = "Add New Project";
+
+/* Class = "UITextField"; text = "Muhammad Akmal"; ObjectID = "sBA-F9-9p8"; */
+"sBA-F9-9p8.text" = "Muhammad Akmal";
+
+/* Class = "UILabel"; text = "Add New Project"; ObjectID = "tJj-d6-gBG"; */
+"tJj-d6-gBG.text" = "Add New Project";
+
+/* Class = "UILabel"; text = "Total Investment SAR"; ObjectID = "vEC-qN-DYe"; */
+"vEC-qN-DYe.text" = "Total Investment SAR";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "xl0-bk-4tF"; */
+"xl0-bk-4tF.text" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Add Image"; ObjectID = "yjb-3H-yrc"; */
+"yjb-3H-yrc.normalTitle" = "Add Image";

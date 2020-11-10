@@ -1,0 +1,359 @@
+/*
+  Localizable.strings
+  VGINV
+
+  Created by Zohaib on 6/20/20.
+  Copyright © 2020 Techno. All rights reserved.
+*/
+
+"usernameHint" = "Email";
+"passwordHint" = "Password";
+"oldPasswordHint" = "Old Password";
+"newPasswordHint" = "New Password";
+"confirmPasswordHint" = "Confirm Password";
+"login" = "Login";
+"changePassword" = "Change Password";
+"forgot_password" = "Forgot Password?";
+"lgout" = "Logout";
+"category" = "Categories";
+"categoryTitle" = "Categories";
+"add_new_project" = "Add New Project";
+"clear_notifications" = "Clear Notifications";
+"projects" = "Projects";
+"Total_Investment" = "Total Investment";
+"Total_Investment_SAR" = "Total Investment SAR";
+"Favorites" = "Favorites";
+"notifications" = "Notifications";
+"inbox" = "Inbox";
+"project" = "Projects";
+"news" = "News";
+"image_des" = "Image";
+"image_des_ic_share" = "Share";
+"updated_just_now" = "Updated just now";
+"share_article" = "Share Article";
+"the_guardian" = "theguardian";
+"world" = "world";
+"science" = "science";
+"sport" = "sport";
+"environment" = "environment";
+"society" = "society";
+"fashion" = "fashion";
+"business" = "business";
+"culture" = "culture";
+"hint_num_of_items" = "Between 1 and 50";
+"hello_blank_fragment" = "Hello blank fragment";
+"sample_title_default" = "Default view";
+"sample_subtitle_default" = "Dialogs and messages with default style";
+"sample_title_attrs" = "Styled view";
+"sample_subtitle_attrs" = "Styled components using embedded attributes";
+"sample_title_layout" = "Custom layout";
+"sample_subtitle_layout" = "Custom layouts to change default views position";
+"sample_title_holder" = "Custom view holder";
+"sample_subtitle_holder" = "Custom view holder to extend default behaviour for a new features";
+"sample_title_custom_content" = "Custom content type";
+"sample_subtitle_custom_content" = "Custom message content on the example of voice message";
+"hint_enter_a_message" = "Type a message…";
+"on_log_click_message" = "Your custom long click handler";
+"action_delete" = "Delete";
+"action_copy" = "Copy";
+"copied_message" = "Message copied!";
+"date_header_today" = "Today";
+"date_header_yesterday" = "Yesterday";
+"start_typing_status" = "Start typing";
+"stop_typing_status" = "Stop typing";
+"sample_title" = "ChatKit for Android";
+"view" = "View";
+"hmgvgerror" = "You cannot view this user profile";
+"hmgvgchaterror" = "You cannot chat with this user";
+"friendRequestError" = "Something went wrong. Please try again later";
+"profile" = "Profile";
+"friendrequest" = "New Friend Request";
+"friendRequestDetails" = "Sent you friend request";
+"fieldRequired" = "All fields are required";
+"passwordMatchError" = "Password Does not match";
+"passwordChangeSuccesss" = "Password has been changed successfully";
+"profileChangeSuccesss" = "Profile has been updated successfully";
+"passwordChangeError" = "There is an error changing password, Try again later";
+"profileChangeError" = "There is an error updating profile, Try again later";
+"editProfile" = "Edit Profile";
+"saveProfile" = "Save Profile";
+"fileUploading" = "Your file is uploading...";
+"AddNewProject" = "Add New Project";
+"AddNewDeal" = "Add New Deal";
+"title" = "Choose appropriate title for your projects*";
+"legalStatus" = "Legal Status Provider";
+"budget" = "Total Budget";
+"budget_SAR" = "Total Budget SAR";
+"submit" = "Submit";
+"addImage" = "Add Image";
+"addFile" = "Add Video";
+"description" = "Description";
+"choseFile" = "Choose a file";
+"pleasewait" = "please wait..";
+"Settings" = "Settings";
+"ProjectPosted" = "Project posted successfully";
+"ProjectPostedHMG" = "Deal posted successfully";
+"ProjectPostFail" = "Project post failed, Try again later";
+"ProjectPostFailHMG" = "Deal post failed, Try again later";
+"InvestInProject" = "I am interested in this Project";
+"InvestInDeal" = "I am interested in this Deal";
+"DownloadFiles" = "Download Files";
+"Deals" = "Deals";
+"HmgSwitch" = "Switch to HMG";
+"VGSwitch" = "Switch to VG";
+"Messages" = "Messages";
+"Home_vg" = "VG Home";
+"Home" = "Home";
+"Back"="Back";
+"Home_hmg" = "HMG Home";
+"SEND_MESSAGE" = "Send Message";
+"LegalStatusProvider" = "Legal status of the project provider";
+"Period" = "Period";
+"switchusertitle" = "Switch User";
+"Country" = "Project Country";
+"City" = "Project City";
+"close" = "Close";
+"agree" = "Agree";
+"totalMemberInvest" = "Total Member Invest";
+"enter_amount" = "Enter Amount";
+"create_room" = "Add New Group";
+"group_name" = "Group Name";
+"group_description" = "Group Description";
+"group_image" = "Group Image";
+"group_members" = "Choose members for the group";
+"delete" = "Delete Group";
+"add_members" = "Add Members";
+"add_member" = "Add Member";
+"group_info_update" = "Update Group Info";
+"group_admin" = "Group Admin";
+"Change_Language" = "Change Language";
+"search_here" = "Search Here";
+"all_members" = "All Members";
+"members_notification" = "Members Notification";
+"vg_members_message" = "To View VG Members, you have to fill up the form and submit the request";
+"hmg_members_message" = "To View HMG Members, you have to fill up the form and submit the request";
+"yes" = "Yes";
+"no" = "No";
+"call_date" = "Select call date";
+"call_time" = "Select call time";
+"switchback_hmg" = "You are switched to VG. Switch back to HMG";
+"switchback_vg" = "You are switched to HMG. Switch back to VG";
+"phone" = "Phone";
+"address" = "Address";
+"choosecountry" = "Select Country";
+"choosecity" = "Select City";
+"designation" = "Designation";
+"bio" = "Bio";
+"job_title" = "Job Title";
+"edit" = "Edit";
+"save" = "Save";
+"save_message" = "Do you want to save settings?";
+"project_interest" = "Thank you for expressing your interest.";
+"call_message" = "Would you like to schedule a Phone call for further details?";
+"project_like_vg" = "Liked this project";
+"project_like_hmg" = "Liked this deal";
+"call_scheduled" = "Thank you. Your call is scheduled";
+"no_members_to_add" = "No Members available to add";
+"no_new_notifications" = "No New Notifications";
+"no_friends_added" = "No Member in My Members list, Tap to add";
+"no_chat_available" = "No Members Chat found, Tap to chat with members";
+"no_projects" = "No projects to show";
+"no_deals" = "No deals to show";
+"no_deals_vg_message" = "To view deals, You have to fill the form for HMG and submit the form";
+"thanks_keep_exploring_deals" = "Thanks. Keep exploring more deals";
+"thanks_keep_exploring_projects" = "Thanks. Keep exploring more projects";
+"file_saved" = "File saved successfully";
+"load_more" = "See more projects";
+"load_more_deals" = "See more deals";
+"downloading" = "Downloading...";
+"Attachments" = "Attachments";
+"ProjectSubmittedSuccessfully" = "Project Submitted Successfully";
+"DrojectSubmittedSuccessfully" = "Deal Submitted Successfully";
+"UnFriend" = "Delete Member";
+"UnFriendMessage" = "Are you sure want to delete Member?";
+"Ok" = "OK";
+"ThanksforSubmittingthePoll" = "Thanks for Submitting the Poll";
+"PleaseContactAdminforHMGaccess" = "Please Contact Admin for HMG access";
+"ClickHere" = "Click here";
+"HMGAdminwillcontactyoushortly" = "Thanks for your request, HMG Admin will contact you shortly";
+"VideUploading" = "Video is uploading. Please wait";
+"ProjectTitle" = "Title (Special Characters are not allowed)";
+"SessionMessage" = "This account is logged in on another device";
+"Legals" = "Direct Broker,Official commissioner and owner and decision maker,Broker of several brokers";
+"CategoriesList" = "Agriculture,Mining,Construction,Wholesale and retail trade,Storage and Transportation,Accommodation and Restaurants,Technology and Communication,Final and Insurance,Real Estate,Profession and Scientific,Logistic support,Administrative Services,Education,Medicine and Health,Arts and entertainment,Exhibitions and conferences,Advertising and publicity,Cars,Furniture and Furnishing,Hygiene";
+
+"AllCategories" = "All,Agriculture,Mining,Construction,Wholesale and retail trade,Storage and Transportation,Accommodation and Restaurants,Technology and Communication,Final and Insurance,Real Estate,Profession and Scientific,Logistic support,Administrative Services,Education,Medicine and Health,Arts and entertainment,Exhibitions and conferences,Advertising and publicity,Cars,Furniture and Furnishing,Hygiene";
+
+"ProjectStatus" = "All Status,Uncompleted,Completed";
+
+"switchmsg" = "اتفاقية الضوابط و الأحكام
+\nشركة التجمع الافتراضي – VG Inv. Co.
+    \n1.    إن العناصر المكونة لمشروع التجمع الإفتراضي هي على النحو التالي:-
+    \n    شركة التجمع الافتراضي للإستثمار ومقرها الرئيس مدينة الرياض, وجاري التوسع محلياً و دولياً
+    \n    مركز حاضنة الأعمال لشركة التجمع الافتراضي بالرياض. المملكة العربية السعودية بيت الافتراضيين
+    \n    موقع التجمع الإفتراضي على الانترنت www.gvinv.com
+    \n     تطبيق التجمع الإفتراضي على منصات ابل ستور واندرويد تحت اسم VGINV
+    \n2.    ان هذه العناصر مجتمعه او منفردة تمثل أصل وروح مشروع (التجمع الإفتراضي) التي طورها المهندس/ سالم المسرحي, وبالتالي فإن قبولك بالإنضمام والتوقيع على هذه الوثيقة (الكترونياً) يعني قبولك بما جاء في هذه الإتفاقية حيث ان (التجمع الإفتراضي) يخضع لضوابط وأحكام هذه الإتفاقية ووافق جميع الاعضاء على اعتبار هذه الإتفاقية بمثابة المرجع الذي يضبط وينظم طريقة عمل التجمع الافتراضي وخارطة طريق لماهو قادم من خطوات يتم التوافق عليها بين جميع الأعضاء
+    \n3.    الهدف : من إنشاء هذا التجمع الافتراضي هو جمع أكبر عدد من الأعضاء المؤمنين بفكرة التعامل بالإفتراضية في عالم المال والأعمال ,ودمجهم ضمن بيئة تفاعلية غير ملزمة عبر تطبيق VGINV الذي يتكون من أعضاء مميزون يتوفر لديهم رؤوس اموال حاضرة قادرة على الدخول في مختلف الفرص الاستثمارية التي تناسبهم سواءا جماعيا او من خلال تكتلات جانبية
+    \n4.    الرؤية : هي ان تتحول فكرة وطريقة عمل شركة التجمع الإفتراضي للاستثمار الى حاضنة للمال والأعمال بطريقة مبتكرة وغير مسبوقة بامكانات ادارية مرنة واليات عملية لتحقيق افضل مداخيل ربحية ممكنة من كافة الفرص المطروحة من اعضاء التجمع الإفتراضي أو من خارج التجمع الإفتراضي او من رواد ورائدات الأعمال المتوقع شغلهم  لمساحات مختلفة بمراكز حاضنات شركة التجمع الافتراضي للإستثمار
+    \n5.    اخلاء مسؤولية:  تحذر شركة التجمع الافتراضي للاستثمار من انها لاتطلب ولن تطلب في اي وقت من الأوقات اي مبالغ نقدية سواء عبر التسليم الشخصي او عبر الحوالات البنكية لاي سبب, عدا ماحددته في الفقرة (6) من هذه الاتفاقية  ،  كما تحذر جميع الأعضاء من نقل او تحويل مبالغ مالية فيما بينهم دون اسباب منطقية ومرجعية قانونية ووثائق مصاحبة او غير ذات صلة بمشاريع او صفقات تم التوافق عليها بين كل او بعض الأعضاء ويتحمل كل عضو مسؤولية تصرفاته امام جهات الاختصاص الرسمية دون ادنى مسؤولية على شركة التجمع الافتراضي للاستثمار
+    \n6.    رسوم: علم جميع أعضاء التجمع الافتراضي بأنه لضمان استمرارية عمل شركة التجمع الافتراضي في اداء اعمالها ولتغطية مصاريف التطوير والتشغيل والصيانة والاعلانات ولجلب مزيداً من الأعضاء الفاعلين, اوجدت شركة التجمع الافتراضي ( 3 ) خيارات للحصول على حقوقها من أي عملية تجارية تتم بين اعضاء التجمع الإفتراضي وللعضو اختيار مايناسبه منها وهي على النحو التالي  :
+    \n.    الحصول على حصة لا تقل عن 2,5 % من الأعمال التجارية والشراكات التي تتم بين الأعضاء وتسجل الحصة باسم شركة التجمع الافتراضي للاستثمار.
+    \n.    الحصول على نسبة 5% من صافي ارباح الصفقات والأعمال التجارية والشراكات التي تتم بين الأعضاء بحيث يتم الاتفاق مع شركة التجمع الافتراضي على آليه التنفيذ.
+    \n.     الاتفاق والتراضي على مبلغ مقطوع.
+ويبقى اختيار العضو لأي من هذه الخيارات الثلاثة حق و ذمة لاتسقط بالتقادم حتى يتم دفعها لشركة التجمع الإفتراضي للاستثمار
+    \n7.    استوعب جميع أعضاء التجمع الافتراضي اساس وطريقة عمل (التجمع الإفتراضي) ووافقوا عليها وهي الإفتراضية اي انه لايوجد الزام ولا التزام لأي عضو من ناحية قبول مايعرضه باقي الأعضاء من فرص, أفكار, مشاريع, صفقات, اقتراحات, تصورات وكذلك حضور اجتماعات العمل من عدمه, فلكل عضو كامل الحرية بالقبول او الرفض دون الحاجة لابداء الاسباب والمبررات
+    \n8.    يحق لأي عضو طرح مايشاء من فرص, أفكار, مشاريع,صفقات, اقتراحات وتصورات في أي وقت بعد تاريخ إنضمامه شريطة مراعاة الدقة والمصداقية فيما يطرحه على أن يكون مايعرضه واقعي وقابل للتطبيق ويفضل الجهوزية الكاملة عند طرح المشاريع اي توفر دراسات و ملخصات وميزانيات والعوائد والمخاطر والارباح وغيرها من الأمور الإعتيادية ذات الصلة
+    \n9.    ان كل مايطرحه أي عضو بالتجمع الإفتراضي من فرص, أفكار, مشاريع,صفقات, اقتراحات, تصورات وكافة الطروحات سواء مكتوبة او رسائل صوتية, رسائل نصية, اتصالات هاتفية او لقاءات شخصية او من خلال مختلف الوسائل الالكترونية عبر عناصر (التجمع الإفتراضي) الموضحة بمقدمة هذه الاتفاقية, تعتبر حقاً مشاعاً لجميع الاعضاء من ناحية التصرف بها منذ اللحظة التي تم طرحه فيها, ولايحق لمن طرح هذه العروض الاعتراض او طلب تعويض اذا تصرف اي عضو او أعضاء بهذه العروض واستغلوها وحققوا فوائد مادية او معنوية من وراءها.
+    \n10.    قررنا استقطاع نسبة 1% من عائد اياً من اختياراتك من الخيارات الثلاثة الموضحة في الفقرة (6) للاعمال الخيرية ، على أن تقوم شركة التجمع الافتراضي للاستثمار وفق الإمكانات بإنشاء مؤسسة خيرية غير ربحية لتتولى هذه المهمة
+    \n11.    يحق لأي عضو العمل بصفة منفردة أو جماعية ،كما ويحق له الإتحاد والتضامن ومقابلة من يشاء من أعضاء التجمع الافتراضي عبر مختلف المجالات والوسائل المتاحة سواء الكترونيا او شخصياً وكذلك عبر مقر حاضنة الأعمال الخاصة بشركة التجمع الافتراضي للاستثمار (بيت الافتراضيين)
+    \n12.      اذا توافق عضو او مجموعة من الأعضاء على تنفيذ مشروع او صفقة ما في اي موقع جغرافي بالعالم وتم دراستها والتأكد من كافة نواحيها الاقتصادية والمالية وتم اعتمادها للتنفيذ, يقرر الجميع الطريقة الآمثل والأكثر امناً وقانونية للدخول في هذا المشروع او الصفقة, اي انه يتم التعامل مع كل حالة وفقاً لما يتم الإتفاق عليه بين الأعضاء المساهمون في هذه العملية التجارية بعينها
+    \n13.    علم اعضاء التجمع الافتراضي ان تطبيق (VGINV) هو المنصة الالكترونية المعتمدة المخصصة للنقاشات وطرح المشاريع والصفقات والأفكار والتصورات وكذلك للرد على الاستفسارات الموجودة لدى الأعضاء ويستطيع اي عضو تحميل التطبيق من متاجر ابل و اندرويد مجانا على ان يتم تفعيل اشتراكه لاحقا من قبل ممثل شركة التجمع الافتراضي
+    \n14.    ان الحد الأدنى لقبول واستمرارية العضوية لكافة أعضاء (التجمع الإفتراضي) هو اثبات كفاءة مالية لمبلغ 500 الف ريال سعودي او مايعادله بالعملات الأخرى, ويحق لممثل شركة التجمع الافتراضي التحقق من الكفاءة المالية من كافة الأعضاء في اي وقت لضمان جودة مستوى الأعضاء والتأكد ان الجميع هم على نفس المستوى والكفاءه والجهوزية المالية
+    \n15.    يحق لممثل شركة التجمع الافتراضي التصرف في الغاء عضوية اي عضو واخراجه من (التجمع الإفتراضي) في حال تأكد له قيام هذا العضو بمخالفات, وممارسات تؤدي الى التشويش والشوشرة, او التضليل والتدليس, او اعطاء بيانات غير صحيحة, او في حال  بقاء العضو مجمدا ومتوقف عن التفاعل والمشاركة مع بقية الأعضاء لفترة طويلة
+    \n16.    لايتحمل صاحب الفكرة ومتبنيها ولا ممثل شركة التجمع الافتراضي ولا أي عضو في التجمع الإفتراضي أخطاء الغير وكذلك لايتحملون اي نتائج سلبية قد يحدثها احد الأعضاء عن عمد او غير عمد
+    \n17.    يحق لأي عضو من أعضاء التجمع الافتراضي مغادرة (التجمع الإفتراضي) والخروج من تلقاء نفسه وقتما يشاء ودون الحاجة للتبرير
+    \n18.    يتحمل اي عضو من أعضاء (التجمع الإفتراضي) منفردا اي مسؤولية قانونية او ادعائات اجرائية من الجهات المختصة ذات الصلة في حال ثبت بأنه قدم فكرة,مشروع او صفقة مشبوهة او مسروقة او غير معلومة المصدر ونسبها الى نفسه, ولايتحمل اي عضو مساهم او مشارك في هذه العملية المسؤولية عن ذلك وكذلك لاتتحمل  شركة التجمع الافتراضي او من يمثلها المسؤولية عنها
+    \n19.     يتحمل أي عضو قدم بيانات شخصية غير حقيقة او مزيفة او ليست عائده له او انتحل صفة ليست به المسؤولية كاملة اذا ماتم فتح تحقيق في ذلك عبر الجهات المختصة ويخلي كافة (اعضاء التجمع الإفتراضي) وشركة التجمع الافتراضي او من يمثلها انفسهم من اي مسؤولية قد تترتب على ذلك
+    \n20.    يحق لشركة التجمع الافتراضي للاستثمار او من يمثلها حذف أي بيانات او معلومات تم تسجيلها من خلال جميع الوسائل الموضحة بمقدمة هذه الإتفاقية بطريقة غير صحيحه او مشتبه بها او غير كاملة ، علما بأنه يتوجب على كل عضو التسجيل باسمه الكامل الصريح ولاتقبل الأسماء المستعارة .
+    \n21.    علم جميع أعضاء (التجمع الافتراضي) بأن هذه الاتفاقية (اتفاقية الضوابط والاحكام) سارية المفعول حتى يتم الغائها كتابياً، وليس لها فترة صلاحية محددة وسيتم تحديثها كلما دعت الحاجة الى ذلك.
+";
+"AddFriends" = "Add Friends";
+"Friends" = "Friends";
+
+"My Members" = "My Members";
+"HMG Members" = "HMG Members";
+"Members Chat" = "Members Chat";
+"Chats" = "Chats";
+"Group Chat" = "Group Chat";
+"VG Members" = "VG Members";
+
+
+
+
+
+
+
+"CHATS" = "Chats";
+"CONTACTS" = "Contacts";
+"CALLS" = "Calls";
+"GROUPS" = "Groups";
+"MORE" = "More";
+"SENDING" = "Sending...";
+"THIS_MESSAGE_DELETED" = "⚠️ This message is deleted";
+"THIS_IMAGE_DELETED" = "⚠️ This image is deleted";
+"THIS_VIDEO_DELETED" = "⚠️ This video is deleted";
+"THIS_AUDIO_DELETED" = "⚠️ This audio is deleted";
+"THIS_FILE_DELETED" = "⚠️ This file is deleted";
+"THIS_CUSTOM_MESSAGE_DELETED" = "⚠️ This custom message is deleted";
+"YOU_DELETED_THIS_MESSAGE" = "⚠️ You deleted this Message";
+"YOU_DELETED_THIS_IMAGE" = "⚠️ You deleted this Image";
+"YOU_DELETED_THIS_VIDEO" = "⚠️ You deleted this Video";
+"YOU_DELETED_THIS_AUDIO" = "⚠️ You deleted this Audio";
+"YOU_DELETED_THIS_FILE" = "⚠️ You deleted this File";
+"YOU_DELETED_THIS_CUSTOM_MESSAGE" = "⚠️ You deleted this Custom Message";
+"VIEW_ON_YOUTUBE" = "View on Youtube";
+"HAS_SENT_AN_IMAGE" = "📷 has sent an image.";
+"HAS_SENT_A_VIDEO" = "📹 has sent a video.";
+"HAS_SENT_A_AUDIO" = "🎵 has sent a audio.";
+"HAS_SENT_A_FILE" = "📁 has sent a file.";
+"HAS_SENT_A_CUSTOM_MESSAGE" = "has sent a custom message.";
+"HAS_SENT_A_CALL" = "has sent a call.";
+"ONLINE" = "Online";
+"OFFLINE" = "Offline";
+"YOU" = "You";
+"ADMIN" = "Admin";
+"MODERATOR" = "Moderator";
+"PARTICIPANT" = "Participant";
+"PUBLIC" = "Public";
+"PRIVATE" = "Private";
+"PASSWORD_PROTECTED" = "Password Protected";
+"PRIVACY_AND_SECURITY" = "Privacy and Security";
+"0_USERS" = "0 Users";
+"USERS" = "users";
+"PRIVACY" = "PRIVACY";
+"BLOCKED_USERS" = "Blocked Users";
+"EVERYBODY" = "Everybody";
+"CALLS" = "Calls";
+"PREFERENCES" = "PREFERENCES";
+"PRIVACY_&_SECURITY" = "Privacy & Security";
+"YOU'VE_BLOCKED"  = "You've blocked ";
+"MEMBERS" = " Members";
+"BACK" = " Back";
+"CANCEL" = "Cancel";
+"SELECT_A_MESSGE" = "Please select a message to perform an action";
+"CUSTOM_MESSAGE" = "Custom Message";
+"TEXT_COPIED" = "Text copied to Clipboard.";
+"TODAY" = "Today";
+"YESTERDAY" = "Yesterday";
+"PHOTO_&_VIDEO_LIBRARY" = "Photo & Video Library";
+"DOCUMENT" = "Document";
+"TYPING" = "typing...";
+"IS_TYPING" = " is typing...";
+"CLOSE" = "Close";
+"ENTER_GROUP_NAME" = "Kindly, enter group name.";
+"REFRESHING" = "Refreshing...";
+"UNBLOCK" = "Unblock";
+"UNBLOCKED_SUCCESSFULLY" = " unblocked sucessfully.";
+"MAKE_GROUP_ADMIN" = "Make Group Admin";
+"MAKE_GROUP_MODERATOR" = "Make Group Moderator";
+"ADMINISTRATORS" = "Administrators";
+"ADD_ADMIN" = "Add Admin";
+"ADD_MODERATOR" = "Add Moderator";
+"OWNER" = "Owner";
+"ASSIGN_AS_ADMIN" = "Assign as Admin";
+"DISMISS_AS_ADMIN" = "Dismiss as Admin";
+"ASSIGN_AS_MODERATOR" = "Assign as Moderator";
+"DISMISS_AS_MODERATOR" = "Dismiss as Moderator";
+"REMOVE_FROM_ADMIN_PREVILEDGE" = " is removed from moderator privilege.";
+"REMOVE_FROM_MODERATOR_PREVILEDGE" = " is removed from moderator privilege.";
+"IS_NOW_ADMIN" = " is now Admin.";
+"IS_NOW_MODERATOR" = " is now Moderator.";
+"REMOVE" = "⚠️ Remove ";
+"AS_ADMIN_FROM" =  " as admin from ";
+"AS_MODERATOR_FROM" =  " as moderator from ";
+"GROUP?" = " group?";
+"ADD" = "✅ Add ";
+"AS_ADMIN_IN" =  " as admin in";
+"AS_MODERATOR_IN" =  " as moderator in";
+"OK" = "OK";
+"AS_A_MODERATOR" = "as a Moderator.";
+"AS_A_ADMIN" = "as a Admin.";
+"ADD_MEMBERS" = "Add Members";
+"ACTIONS" = "ACTIONS";
+"PRIVACY_&_SUPPORT" = "PRIVACY & SUPPORT";
+"SEND_MESSAGE" = "Send Message";
+"ADD_IN" = "Add in";
+"ADD_CONTACT" = "Add Contact";
+"UNBLOCK_USER" = "Unblock User";
+"BLOCK_USER" = "Block User";
+"ADDED_SUCCESSFULLY" = " added successfully.";
+"UNBLOCKED_SUCCESSFULLY" = " unblocked successfully.";
+"BLOCKED_SUCCESSFULLY" = " blocked successfully.";
+"MEMBERS_" = "MEMBERS";
+"DELETE_&_EXIT" = "Delete & Exit";
+"LEAVE_GROUP" = "Leave Group";
+"FROM" = " from ";
+"REMOVED_SUCCESSFULLY" = " removed successfully.";
+"BANNED_SUCCESSFULLY" = " banned successfully.";
+"UNBANNED_SUCCESSFULLY" = " unbanned successfully.";
+"DELETED_SUCCESSFULLY" = " deleted successfully.";
+"YOU_LEFT_FROM" = "You left from ";
+"REMOVE_MEMBER" = "Remove Member";
+"BAN_MEMBER" = "Ban Member";
+"UNBAN_MEMBER" = "Unban Member";
+"CREATE_GROUP" = "Create Group";
+"YOU_JOINED" = "You joined ";
+"FORWARD_MESSAGE" = "Forward Message";
+"FORWARD" = "Forward";
+"SHARED_MEDIA" = "SHARED MEDIA";
+"UNABLE_TO_FORWARD" = "Unable to forward message to";
+"FORWARD_TO_5_AT_A_TIME" = "You can forward message only to 5 participants at a time.";
+"NO_PHOTOS" =  "No Photos";
+"NO_VIDEOS" =  "No Videos";
+"NO_DOCUMENTS" =  "No Documents";
+"HISTORY" =  "HISTORY";
+"VIDEO_CALL" =  "Video Call";
+"AUDIO_CALL" =  "Audio Call";
+"MAY_CONTAIN_NEGATIVE_SENTIMENT" = "This message may contain sensitive content.";
+"Signup" = "Signup";
